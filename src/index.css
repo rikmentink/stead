@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+:root {
+  --font-brand: 'Cormorant Garamond', 'Times New Roman', Times, serif;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family:
+    'Segoe UI',
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: #1c1917;
+  background: #fafaf9;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
