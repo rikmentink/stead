@@ -2,6 +2,10 @@
 
 Keep the day steady — tasks, habits, and calendar in one calm dashboard.
 
+**Beta:** [steadapp.vercel.app](https://steadapp.vercel.app)
+
+![Stead dashboard](docs/dashboard.jpg)
+
 ## Features
 
 - **Dashboard** — today’s tasks (pinned / due / overdue), habits, and a Google Calendar day timeline
